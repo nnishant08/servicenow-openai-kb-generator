@@ -51,5 +51,4 @@ This aligns with my interest in building **agentic workflows** powered by OpenAI
 │   └── openai_rest_message.json              # Example REST Message definition (for reference)
 └── docs/
     ├── flow_explanation.md                   # End-to-end explanation of the flow
-    ├── security_model.md                     # Notes on API key + data security
-    └── demo_screenshots/                     # (Optional) Screenshots of it running
+    
